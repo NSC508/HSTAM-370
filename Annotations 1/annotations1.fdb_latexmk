@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex annotations1"] 1665800126 "annotations1.aux" "annotations1.bbl" "annotations1" 1665800126
+["bibtex annotations1"] 1665800694 "annotations1.aux" "annotations1.bbl" "annotations1" 1665800694
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "annotations1.aux" 1665800126 767 e8c06c82b04f7bf784a47e327245bf2d "pdflatex"
-  "myrefs.bib" 1665800123 255 bf14fc4b7a4b41fd6f00a8004aee21b9 ""
+  "annotations1.aux" 1665800694 860 168246c58c7d3193f40d142d8dae20d1 "pdflatex"
+  "myrefs.bib" 1665800517 2186 62e321e086b1c4495d4b58baf799d242 ""
   (generated)
   "annotations1.bbl"
   "annotations1.blg"
-["pdflatex"] 1665800126 "/workspaces/HSTAM-370/Annotations 1/annotations1.tex" "annotations1.pdf" "annotations1" 1665800126
+["pdflatex"] 1665800694 "/workspaces/HSTAM-370/Annotations 1/annotations1.tex" "annotations1.pdf" "annotations1" 1665800694
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -23,11 +23,13 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -169,11 +171,11 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1665396335 4595883 1a8137d784f6ac4a90cecb4bdd05a7cf ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1665396395 3058863 e6b73744486a3aeca8683208d0cb35fe ""
   "/usr/local/texlive/2022/texmf.cnf" 1665396332 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "/workspaces/HSTAM-370/Annotations 1/annotations1.tex" 1665800083 833 0ece0c51bf4650bff94160098dee921f ""
-  "annotations1.aux" 1665800126 767 e8c06c82b04f7bf784a47e327245bf2d "pdflatex"
-  "annotations1.bbl" 1665800126 49 0eba253fc001332e731e8aba3f23127b "bibtex annotations1"
-  "annotations1.out" 1665800126 35 9534070c232aa0a3f935cb7c3e3f8d46 "pdflatex"
-  "annotations1.tex" 1665800083 833 0ece0c51bf4650bff94160098dee921f ""
+  "/workspaces/HSTAM-370/Annotations 1/annotations1.tex" 1665800693 885 1c296deca867d13688515e9422778d30 ""
+  "annotations1.aux" 1665800694 860 168246c58c7d3193f40d142d8dae20d1 "pdflatex"
+  "annotations1.bbl" 1665800694 355 6f82790904363230e5ad0d7bc5c0c21f "bibtex annotations1"
+  "annotations1.out" 1665800694 35 9534070c232aa0a3f935cb7c3e3f8d46 "pdflatex"
+  "annotations1.tex" 1665800693 885 1c296deca867d13688515e9422778d30 ""
   (generated)
   "annotations1.aux"
   "annotations1.log"
